@@ -1,0 +1,11 @@
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\obj\Debug\netcoreapp2.2\Lift.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\obj\Debug\netcoreapp2.2\Lift.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\obj\Debug\netcoreapp2.2\Lift.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\obj\Debug\netcoreapp2.2\Lift.AssemblyInfo.cs
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\bin\Debug\netcoreapp2.2\Lift.deps.json
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\bin\Debug\netcoreapp2.2\Lift.runtimeconfig.json
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\bin\Debug\netcoreapp2.2\Lift.runtimeconfig.dev.json
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\bin\Debug\netcoreapp2.2\Lift.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\bin\Debug\netcoreapp2.2\Lift.pdb
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\obj\Debug\netcoreapp2.2\Lift.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\Lecture7\Lift\obj\Debug\netcoreapp2.2\Lift.pdb
